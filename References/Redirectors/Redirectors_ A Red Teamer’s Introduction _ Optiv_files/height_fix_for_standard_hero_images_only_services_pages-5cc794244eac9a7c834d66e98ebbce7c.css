@@ -1,0 +1,9 @@
+.theme-no-one-rawks-the-hawk .container-background-image {
+  min-height: 300px;
+}
+.theme-no-one-rawks-the-hawk .container-background-image > .container-background > div {
+  background-position: center;
+}
+.no-fixed-height {
+  min-height: 0px !important;
+}
